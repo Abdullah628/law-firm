@@ -10,7 +10,7 @@ export const blogPosts = [
     readTime: 12,
     category: "Family Law",
     featured: true,
-    image: "/placeholder.svg?height=400&width=800",
+    image: "https://jrmgtattorneys.procurrox.com/wp-content/uploads/sites/3249/2024/10/GettyImages-1289021564-1.jpg?height=400&width=800",
     excerpt:
       "Navigating divorce in New York can be complex. This guide breaks down the key aspects of NY divorce laws.",
     content: [
@@ -49,7 +49,7 @@ export const blogPosts = [
     readTime: 8,
     category: "Real Estate",
     featured: false,
-    image: "/placeholder.svg?height=400&width=800",
+    image: "https://photos.alphotoscdn.com/cdn-cgi/image/fit=cover,width=975,/file/al-cms/MediaLibrary/23763/9dda1924-1314-4877-88f0-46aac075dc6e.jpg?height=400&width=800",
     excerpt:
       "A step-by-step guide to understanding the complexities of real estate transactions, from initial offer to closing.",
     content: [
@@ -71,7 +71,7 @@ export const blogPosts = [
     readTime: 10,
     category: "Corporate Law",
     featured: false,
-    image: "/placeholder.svg?height=400&width=800",
+    image: "https://i.pinimg.com/564x/b5/0c/da/b50cdabbe5b507c93e8a25b55623062f.jpg?height=400&width=800",
     excerpt:
       "Implementing strong corporate governance practices is essential for long-term success. Learn about key strategies.",
     content: [
@@ -93,7 +93,7 @@ export const blogPosts = [
     readTime: 6,
     category: "Criminal Defense",
     featured: false,
-    image: "/placeholder.svg?height=400&width=800",
+    image: "https://sfbaydefense.com/wp-content/uploads/2024/07/Understanding-DUI-Charges.jpg?height=400&width=800",
     excerpt: "Facing DUI charges can be daunting. Understand your rights and the possible defenses available to you.",
     content: [
       "DUI (Driving Under the Influence) or DWI (Driving While Intoxicated) charges can have serious consequences.",
@@ -113,7 +113,7 @@ export const blogPosts = [
     readTime: 9,
     category: "Immigration Law",
     featured: false,
-    image: "/placeholder.svg?height=400&width=800",
+    image: "https://law-visa-usa.com/uploads/3/4/0/8/34080001/cbp-admission-at-airport_orig.jpg?height=400&width=800",
     excerpt: "Explore the various immigration pathways available to individuals seeking to live and work in the U.S.",
     content: [
       "The United States offers various immigration options, including:",
@@ -133,7 +133,7 @@ export const blogPosts = [
     readTime: 7,
     category: "Personal Injury",
     featured: false,
-    image: "/placeholder.svg?height=400&width=800",
+    image: "https://www.frantzlawgroup.com/wp-content/uploads/2023/01/los-angeles-ca-car-accident-lawyer-what-do-you-do-if-youve-lost-a-loved-one-in-a-fatal-car-accident.jpg?height=400&width=800",
     excerpt:
       "If you've been injured in an accident, it's crucial to understand your rights and the steps to take to file a claim.",
     content: [
